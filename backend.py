@@ -9,7 +9,7 @@ def get_keyword_suggestions(topic):
     prompt = f"Suggest 10 highly effective SEO keywords or phrases for the topic: {topic}.\nReturn them as a bullet list."
     
     response = client.chat.completions.create(
-        model="gpt-4-turbo",
+        model="gpt-3.5-turbo",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7,
     )
