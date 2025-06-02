@@ -48,8 +48,3 @@ We welcome contributions! To contribute:
 
 ## 📜 License  
 This project is licensed under the **MIT License** – feel free to use and modify it!  
-
-## 🔗 Connect with Me  
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
