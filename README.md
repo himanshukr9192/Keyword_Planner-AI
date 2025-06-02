@@ -1,31 +1,55 @@
-#🚀 Keyword Planner AI – Free, AI-Powered SEO Tool
-
-🔹 Overview
-Keyword Planner AI is an open-source, AI-driven keyword research tool designed to help content creators, marketers, and SEO professionals optimize their content without relying on expensive paid tools.
-Built using deep learning, custom model training, and curated datasets, this tool provides intelligent keyword suggestions, competitor analysis, and trend insights to enhance search visibility.
+# 🚀 Keyword Planner AI – Free, AI-Powered SEO Tool  
 
 
-🔹 Features
-✅ AI-Powered Keyword Suggestions – Generate high-ranking keywords based on your topic. ✅ Competitor Analysis – Extract keywords from competitor websites to refine your strategy. ✅ SEO Score Evaluation – Analyze content quality and get actionable SEO insights. ✅ Trend Analysis – Track keyword popularity over time for better optimization. ✅ User-Friendly Interface – Interactive UI built with Streamlit for seamless keyword exploration.
+Keyword Planner AI ![Screenshot 2025-06-02 204607](https://github.com/user-attachments/assets/f3d6703a-c575-48c9-90a2-bc9f193c0df5) 
 
 
-🔹 Usage Guide
-Get to this website - https://keywordplanner-ai-smkl85n7yzcz2z2fadac48.streamlit.app/
-1️⃣ Enter a topic to generate relevant keywords. 2️⃣ Analyze competitor websites to extract their keyword strategies. 3️⃣ Evaluate SEO scores for content optimization. 4️⃣ Track keyword trends to stay ahead in search rankings.
+## 🔹 Overview  
+Keyword Planner AI is an **open-source, AI-driven keyword research tool** designed for **content creators, marketers, and SEO professionals**.  
+✅ No paid subscriptions  
+✅ AI-powered keyword insights  
+✅ Competitor analysis made easy  
 
+## 📌 Features  
+- 🔎 **AI-Powered Keyword Suggestions** – Generate high-ranking keywords  
+- 🕵️ **Competitor Analysis** – Extract keywords from competitor websites  
+- 📊 **SEO Score Evaluation** – Analyze content quality & get actionable insights  
+- 📈 **Trend Analysis** – Track keyword popularity over time  
+- 🎯 **User-Friendly Interface** – Built using **Streamlit** for seamless experience  
 
-🔹 Tech Stack
-Python – Core programming language
+## ⚡ Quick Setup  
 
-Streamlit – Interactive UI
+### Get to this website - https://keywordplanner-ai-smkl85n7yzcz2z2fadac48.streamlit.app
+#
 
-OpenAI API – AI-powered keyword generation
+### OR
 
-BeautifulSoup – Web scraping for competitor analysis
+#
+### 1️⃣ **Clone the Repository**  
+### 2️⃣ **Install Dependencies**  
+### 3️⃣ **Set Up Environment Variables**
+### 4️⃣ **Run the Application**  
+Your **Keyword Planner AI** will now be accessible via **localhost**.
 
-Pandas – Data processing
+## 🛠 Tech Stack  
+🔹 **Python** – Core programming language  
+🔹 **Streamlit** – Interactive UI  
+🔹 **OpenAI API** – AI-powered keyword generation  
+🔹 **BeautifulSoup** – Web scraping for competitor analysis  
+🔹 **Pandas** – Data processing  
 
+## 🌎 Contributing  
+We welcome contributions! To contribute:  
+1️⃣ **Fork the repository**  
+2️⃣ **Create a new branch** (`git checkout -b feature-branch`)  
+3️⃣ **Commit your changes** (`git commit -m "Added new feature"`)  
+4️⃣ **Push to GitHub** (`git push origin feature-branch`)  
+5️⃣ **Open a Pull Request**  
 
-🔹 License
-This project is licensed under the MIT License – feel free to use and modify it!
+## 📜 License  
+This project is licensed under the **MIT License** – feel free to use and modify it!  
 
+## 🔗 Connect with Me  
+📧 **Email:** your-email@example.com  
+🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
